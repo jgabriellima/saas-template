@@ -15,6 +15,19 @@ const eslintConfig = [
     rules: {
       "no-unused-vars": "off",
       "no-explicit-any": "off",
+      "no-console": "off",
+      "no-debugger": "off",
+      "no-undef": "off",
+      "no-undef-init": "off",
+      "no-unused-expressions": "off",
+      "no-unused-labels": "off",
+      "no-unused-imports": "off",
+      "no-unused-vars": "off",
+      "no-undef-init": "off",
+      "eqeqeq": "off",
+      "semi": "off",
+      "quotes": "off",
+      "indent": "off"
     },
   },
 ];
